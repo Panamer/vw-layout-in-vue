@@ -1,4 +1,5 @@
 # vw-layout-in-vue
+<<<<<<< HEAD
 
 > vw layout for mobile in vue
 
@@ -25,3 +26,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+在vue项目中使用vw实现移动端适配。截止目前最前卫的适配方式，手淘团队使用并推荐
+>>>>>>> 254f80849d997be9ba00d27442b56c8bfb62d0ae
