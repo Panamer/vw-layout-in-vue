@@ -7,7 +7,7 @@
       </div>
      </div>
      <div class="block-item" w-375-224 aspectratio aspect-ratio="375/224">
-      <div aspectratio-content="">
+      <div aspectratio-content>
        <img src="//gw.alicdn.com/mt/TB1PMCHSXXXXXcQaXXXXXXXXXXX-375-224.png" alt="" width="100%" height="100%">
       </div>
      </div>

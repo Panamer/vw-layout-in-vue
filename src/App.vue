@@ -1,29 +1,23 @@
 <template>
   <div id="app">
-    <!-- <banner />
-    <grid />
-    <block />
-    <list /> -->
     <helleWorld />
+    <helloTwo />
+    <helloThree />
   </div>
 </template>
 
 <script>
 import '@/assets/scss/common.css'
 import HelleWorld from '@/components/HelloWorld'
-import Banner from '@/components/Banner'
-import Grid from '@/components/Grid'
-import Block from '@/components/Block'
-import List from '@/components/List'
+import HelloTwo from '@/components/HelloTwo'
+import HelloThree from '@/components/HelloThree'
 
 export default {
   name: 'App',
   components: {
     HelleWorld,
-    Banner,
-    Grid,
-    Block,
-    List
+    HelloTwo,
+    HelloThree
   }
 }
 </script>
@@ -34,8 +28,6 @@ export default {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  background: #fff
 }
 </style>
