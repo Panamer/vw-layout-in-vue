@@ -26,6 +26,12 @@ npm test
 #总结
 
 盒子（容器）都要添加容器宽度比，有一个默认的结构。图片宽度用px高写成auto，因为有了宽度比所以不会变形
+使用宽度比的时候    aspectratio   aspectratio-content 是必写的
+
+<div aspectratio>
+    <div aspectratio-content>
+    </div>
+</div>
 
 不想把px转换为vw，可以添加指定的类名
 

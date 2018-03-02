@@ -1,17 +1,35 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <router-view/>
+    <!-- <banner />
+    <grid />
+    <block />
+    <list /> -->
+    <helleWorld />
   </div>
 </template>
 
 <script>
+import '@/assets/scss/common.css'
+import HelleWorld from '@/components/HelloWorld'
+import Banner from '@/components/Banner'
+import Grid from '@/components/Grid'
+import Block from '@/components/Block'
+import List from '@/components/List'
+
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    HelleWorld,
+    Banner,
+    Grid,
+    Block,
+    List
+  }
 }
 </script>
 
 <style>
+
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
