@@ -13,7 +13,7 @@ export default {
 }
 </script>
 
-<style lang="css">
+<style scoped>
   [w-375-54] {
     width: 375px;
     height: 54px;

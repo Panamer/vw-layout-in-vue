@@ -25,7 +25,7 @@ export default {
 }
 </script>
 
-<style lang="css">
+<style lang="css" scoped>
 [w-335-75]{
   width: 335px;
   height: 75px;
@@ -36,7 +36,9 @@ export default {
 [flexcontainer] img{
   width: 14px;
   height: 14px;
-  vertical-align: middle;
+  position: relative;
+  top: 3px;
+  left: -2px;
 }
 [w-167] {
   width: 167px;
