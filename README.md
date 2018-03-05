@@ -39,7 +39,7 @@ npm test
 
 不想把px转换为vw，可以添加指定的类名
 
-1px解决方案，针对于border   border-image  background-image
+1px解决方案，针对于border   border-image  background-image，有特殊写法
 
 img必须加 content：normal !important
 
