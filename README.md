@@ -48,6 +48,7 @@ img必须加 content：normal !important
 引入vw兼容js  和script
 
 [aspectratio]表示自定义属性 它和类名所起的作用是相同的，
+
 定义class时 style里写 .classname。如果标签内写的是自定义属性那么style里就写 [aspectratio]。大漠就喜欢这样用
 
 bug: 宽度比容器设置padding无效，可以对子元素使用margin
