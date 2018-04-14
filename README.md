@@ -52,3 +52,5 @@ img必须加 content：normal !important
 定义class时 style里写 .classname。如果标签内写的是自定义属性那么style里就写 [aspectratio]。大漠就喜欢这样用
 
 bug: 宽度比容器设置padding无效，可以对子元素使用margin
+
+
