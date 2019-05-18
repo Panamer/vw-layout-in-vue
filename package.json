@@ -2,7 +2,7 @@
   "name": "vw-layout-in-vue",
   "version": "1.0.0",
   "description": "vw layout for mobile in vue",
-  "author": "guoyongwei <guoyongwei@.com>",
+  "author": "154035349@qq.com",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
